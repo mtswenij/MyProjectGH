@@ -1,0 +1,4 @@
+What are my objectives with the coding?
+
+-Work on the userinterface
+-Understand Lists
